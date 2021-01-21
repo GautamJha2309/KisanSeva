@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sih_v2">
+
+    <uses-permission
+        android:name="android.permission.ACCESS_COARSE_LOCATION"
+        android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="Kisan Seva"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".Fertilizers.FertilizerActivity" />
+        <activity android:name=".Fertilizers.ShowShop"/>
+        <activity android:name=".Mandi.MandiActivity" />
+        <activity android:name=".Mandi.Show" />
+        <activity android:name=".Protection.ProtectionDetailsDiseases" />
+        <activity android:name=".Protection.ProtectionDetailsInsects" />
+        <activity android:name=".Profile.DeveloperProfile" />
+        <activity android:name=".retailer.retailer" />
+        <activity android:name=".retailer.ShowShop" />
+        <activity android:name=".TransportationActivity" />
+        <activity
+            android:name=".BottomBar"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Settings.SettingsActivity" />
+        <activity android:name=".Protection.ProtectionDetailsActivity" />
+        <activity android:name=".Protection.cropCamera" />
+        <activity android:name=".Protection.cropTypeProtection" />
+        <activity
+            android:name=".OtpEnterActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PhoneActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Profile.ProfileActivity" />
+        <activity android:name=".News.activity.NewsActivity" />
+        <activity android:name=".News.activity.WebViewActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".YTvideo.Videos" />
+        <activity android:name=".Advisory.CropDesc" />
+        <activity android:name=".Insurance.cropInsurance" />
+        <activity android:name=".Weather.activities.WeatherActivity" />
+        <activity android:name=".Advisory.Advisory" />
+        <activity android:name=".Schemes.Scheme" />
+        <activity
+            android:name=".RegisterActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ChooseActivity"
+            android:theme="@style/AppTheme1" />
+        <activity android:name=".MainActivity" /> <!-- LAUNCHER ACTIVITY -->
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

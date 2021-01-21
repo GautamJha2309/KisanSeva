@@ -1,0 +1,328 @@
+<resources>
+    <string name="app_name">மெட்டீரியல் லோகின் பேஜ்</string>
+    <string name="top_icon">முதல் ஐகான்</string>
+    <string name="email">மின்னஞ்சல்</string>
+    <string name="password">கடவுச்சொல்</string>
+    <string name="login">உள்நுழைய</string>
+    <string name="forgot_password">கடவுச்சொல்லை மறந்துவிட்டீர்களா ?</string>
+    <string name="or">அல்லது</string>
+    <string name="google_icon">கூகிள் ஐகான்</string>
+    <string name="facebook_icon">முகநூல் ஐகான்</string>
+    <string name="new_user_register_now">புதிய பயனர் ? இப்போது பதிவுசெய்க</string>
+
+    <string name="hello_blank_fragment">வணக்கம் வெற்று துண்டு</string>
+    <string name="category_headlines"> தலைப்புச் செய்திகள்</string>
+    <string name="category_technology">தொழில்நுட்பம்</string>
+    <string name="category_sports">விளையாட்டு</string>
+    <string name="category_business">வணிக</string>
+    <string name="category_world">உலகம்</string>
+    <string name="category_entertainment">பொழுதுபோக்கு</string>
+    <string name="category_science">விஞ்ஞானம்</string>
+    <string name="title_activity_bottom">முக்கியமான செயல்பாடு</string>
+    <string name="title_home"> வீடு</string>
+    <string name="title_dashboard">டாஷ்போர்டு</string>
+    <string name="title_notifications">அறிவிப்புகள்</string>
+    <string name="scheme1"><p>PMFBY இன் கீழ், விவசாயிகள் செலுத்த வேண்டிய பிரீமியம் விகிதங்கள் மிகக் குறைவு மற்றும் இருப்பு பிரீமியம் அரசாங்கத்தால் செலுத்தப்படும்.அரசு மானியத்திற்கு மேல் வரம்பு இல்லை. La n தொடங்கப்பட்டது: பிப்ரவரி 18, 2016 </p></string>
+
+    <string name="scheme2"><p>பண்ணை உற்பத்தித்திறனை மேம்படுத்துவதற்கும், நாட்டின் வளங்களை சிறப்பாகப் பயன்படுத்துவதை உறுதி செய்வதற்கும் இது ஒரு தேசிய பணியாகும். 2015-2016 ஒரு வருட காலப்பகுதியில் billion 53 பில்லியன் வரவு செலவுத் திட்டம் இந்தத் திட்டத்திற்கு ஒதுக்கப்பட்டுள்ளது. La n தொடங்கப்பட்டது: ஜூலை 01, 2015</p></string>
+
+    <string name="scheme3"><p>இயற்கை வள அடிப்படையிலான ஒருங்கிணைந்த மற்றும் காலநிலை நெகிழக்கூடிய நிலையான விவசாய முறைகளை மேம்படுத்துவதை பராமரித்தல் மற்றும்
+        மண் வளத்தை அதிகரித்தல், இயற்கை வள பாதுகாப்பு, பண்ணையில் ஊட்டச்சத்து மறுசுழற்சி செய்தல் மற்றும் வெளிப்புற உள்ளீடுகளில் விவசாயிகளின் சார்புநிலையை குறைத்தல். a n தொடங்கப்பட்டது: 2015   </p></string>
+
+    <string name="scheme4"><p>திட்டத்தின் கீழ் 2 ஹெக்டேர் வரை நிலம் வைத்திருத்தல் / உரிமையைக் கொண்ட சிறு மற்றும் குறு விவசாயிகளுக்கு மூன்று சம தவணைகளில் ஆண்டுக்கு 6,000 / - வருமான உதவி வழங்கப்படும். La n தொடங்கப்பட்டது: பிப்ரவரி 01, 2019  </p></string>
+
+    <string name="scheme5"><p>பிரதான் மந்திரி கிசான் மந்தன் யோஜனா என்பது முதியோர் பாதுகாப்பு மற்றும் சிறு மற்றும் குறு மக்களின் சமூக பாதுகாப்புக்கான ஒரு அரசு திட்டமாகும்
+        விவசாயிகள் (SMF). La n தொடங்கப்பட்டது: செப்டம்பர் 12, 2019   </p></string>
+
+    <string name="scheme6"><p>இதன் கீழ், விவசாயிகளுக்கு மண் அட்டைகளை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது, இது ஊட்டச்சத்துக்கள் மற்றும் உரங்களின் பயிர் வாரியான பரிந்துரைகளை கொண்டு செல்லும்
+        உள்ளீடுகளை நியாயமான முறையில் பயன்படுத்துவதன் மூலம் உற்பத்தித்திறனை மேம்படுத்த விவசாயிகளுக்கு உதவ தனிப்பட்ட பண்ணைகள் தேவை. a n தொடங்கப்பட்டது: பிப்ரவரி 19, 2015  </p></string>
+
+    <string name="scheme7"><p>பண்ணை விளைபொருட்களை சேமிப்பதற்காக கிராமப்புற கிடங்குகள் அல்லது கோடவுன்களை நிர்மாணிப்பதற்கான அல்லது புதுப்பிப்பதற்கான மூலதன முதலீட்டு மானியத் திட்டமாகும்.
+        இந்த திட்டம் விவசாயிகளின் இருப்பு திறனை அதிகரிப்பதில் அவர்களுக்கு உதவுவதை நோக்கமாகக் கொண்டுள்ளது. La n தொடங்கப்பட்டது: மார்ச் 31, 2007   </p></string>
+
+    <string name="scheme8"><p>தகுதிவாய்ந்த அனைத்து விவசாயிகளுக்கும் அவர்களின் விவசாய நடவடிக்கைகளுக்கு தொந்தரவு இல்லாத மற்றும் சரியான நேரத்தில் கடன் வழங்கப்படுவதை உறுதி செய்வதற்காக.
+        குறு விவசாயிகள், பங்கு பயிர்கள், வாய்வழி குத்தகைதாரர் மற்றும் குத்தகைதாரர் விவசாயிகள் இத்திட்டத்தின் கீழ் வர தகுதியுடையவர்கள். A n தொடங்கப்பட்டது: ஆகஸ்ட், 1998  </p></string>
+
+    <string name="scheme9"><p>  </p></string>
+
+    <string name="scheme10"><p>   </p></string>
+
+    <string name="scheme11"><p>   </p>!</string>
+
+    <string name="scheme12"><p>   </p>!</string>
+
+
+    <!-- FOR WEATHER -->
+
+    <string name="action_search">தேடல்</string>
+    <string name="action_refresh">ஆராய்ச்சி</string>
+    <string name="action_settings">அமைத்தல்</string>
+    <string name="action_about">பற்றி</string>
+
+    <string name="today">இன்று</string>
+    <string name="tomorrow">நாளை</string>
+    <string name="later">பின்னர்</string>
+
+    <string name="wind">காற்று</string>
+    <string name="pressure">அழுத்தம்</string>
+    <string name="humidity">ஈரப்பதம்</string>
+    <string name="sunrise">சூரிய உதயம்</string>
+    <string name="sunset">சூரிய அஸ்தமனம்</string>
+
+    <string name="last_update">கடைசி புதுப்பிப்பு: \ n% s</string>
+    <string name="last_update_widget">vகடைசி புதுப்பிப்பு: \ n% s</string>
+
+    <string name="search_title">நகரத்தைத் தேடுங்கள்</string>
+
+    <string name="downloading_data">உங்கள் தரவைப் பதிவிறக்குகிறது  </string>
+    <string name="getting_location">உங்கள் இருப்பிடத்தைப் பெறுகிறது  </string>
+
+    <string name="error_dateFormat">தேதி வடிவமைப்பு பிழை</string>
+
+    <string name="setting_dateFormat">தேதி வடிவமைப்பு</string>
+    <string name="setting_dateFormatCustom">தனிப்பயன் தேதி வடிவமைப்பு</string>
+    <string name="setting_dateFormatCustom_summary">பயன்படுத்த வேண்டிய தனிப்பயன் சிம்பிள் டேட்ஃபார்மட் சரத்தை வழங்கவும்</string>
+    <string name="setting_lengthUnits">நீள அலகுகள்</string>
+    <string name="setting_speedUnits">வேக அலகுகள்</string>
+    <string name="setting_tempUnits">வெப்பநிலை அலகுகள்</string>
+    <string name="setting_showTempAsInteger">வெப்பநிலையை ஒரு முழு எண்ணாக மட்டுமே காட்டு</string>
+    <string name="setting_pressureUnits">அழுத்தம் அலகுகள்</string>
+    <string name="setting_theme">தீம்</string>
+    <string name="setting_auto_detect_location">இருப்பிடத்தைக் கண்டறியவும்</string>
+    <string name="setting_differentiateDaysByTint">நாட்களை வண்ணத்துடன் வேறுபடுத்துங்கள்</string>
+    <string name="setting_refreshInterval">பின்னணி புதுப்பிப்பு இடைவெளி</string>
+    <string name="setting_unit_mps">வினாடிக்கு மீட்டர் (மீ / வி)</string>
+    <string name="setting_unit_kph">மணிக்கு கிலோமீட்டர் (கி.மீ)</string>
+    <string name="setting_unit_mph">மணிக்கு மைல்கள் (mph)</string>
+    <string name="setting_unit_bft">பீஃபோர்ட் காற்றின் அளவு (பி.டி)</string>
+    <string name="setting_unit_kn">முடிச்சுகள் (ஆன்)</string>
+    <string name="setting_wind_direction_format">காற்று திசை வடிவம்</string>
+    <string name="settings_none">எதுவுமில்லை</string>
+    <string name="setting_apiKey">API விசை</string>
+    <string name="setting_apiKey_summary"> திறந்த வானிலை வரைபடம் வினவல்களுக்கான தனிப்பயன் API விசை</string>
+
+    <string name="setting_unit_Celsuis">செல்சியஸ்</string>
+    <string name="setting_unit_Fahrenheit">பாரன்ஹீட்</string>
+    <string name="setting_unit_Kelvin">கெல்வின்</string>
+
+    <string name="setting_unit_mm">மில்லிமீட்டர் (மிமீ)</string>
+    <string name="setting_unit_in">அங்குலங்கள் (இல்)</string>
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">in Hg</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="wind_direction_format_none">எந்த அறிகுறியும் இல்லை</string>
+    <string name="wind_direction_format_arrows">அம்புகள்</string>
+    <string name="wind_direction_format_abbreviations">சுருக்கங்கள்</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="setting_theme_fresh">புதியது</string>
+    <string name="setting_theme_classic">செந்தரம்</string>
+    <string name="setting_theme_dark">புதிய இருண்ட</string>
+    <string name="setting_theme_classic_dark">கிளாசிக் டார்க்</string>
+
+    <string name="dialog_ok">சரி</string>
+    <string name="dialog_cancel">ரத்துசெய்</string>
+
+    <string name="msg_err_parsing_json">JSON ஐ பாகுபடுத்துவதில் பிழை</string>
+    <string name="msg_connection_problem">உங்கள் இணைய இணைப்பில் சிக்கல் உள்ளது.</string>
+    <string name="msg_connection_not_available">இணைப்பு கிடைக்கவில்லை.</string>
+    <string name="msg_city_not_found">குறிப்பிடப்பட்ட நகரம் காணப்படவில்லை.</string>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">பல கோரிக்கைகள். தயவுசெய்து மீண்டும் முயற்சி செய்க.</string>
+
+    <!-- 1: temperature; 2: unit -->
+    <string name="dash_clock_status">%1$s%2$s</string>
+    <!-- 1: temperature; 2: unit; 3: weather description -->
+    <string name="dash_clock_expanded_title">%1$s%2$s - %3$s</string>
+    <!-- 1: city; 2: country; 3: wind; 4: speed units; 5: pressure; 6: pressure units; 7: humidity -->
+    <string name="dash_clock_expanded_body">%1$s, %2$s\nWind: %3$s %4$s\nPressure: %5$s %6$s\nHumidity: %7$s %%\n</string>
+    <string name="settings_title_units">அலகுகள்</string>
+    <string name="settings_title_display">காட்சி</string>
+    <string name="settings_title_data">தகவல்கள்</string>
+    <string name="setting_displayDecimalZeroes">தசம பூஜ்ஜியங்களைக் காண்பி</string>
+    <string name="settings_title_location">இடம்</string>
+    <string name="setting_update_location_automatically">பின்னணியில் இருப்பிடத்தைப் புதுப்பிக்கவும்</string>
+
+    <string name="location_settings">இருப்பிட அமைப்புகள்</string>
+    <string name="location_settings_message">இருப்பிடம் இயக்கப்படவில்லை. அமைப்புகள் மெனுவுக்கு செல்ல விரும்புகிறீர்களா?</string>
+    <string name="location_settings_button">அமைப்புகள்</string>
+    <string name="action_weather_map">வானிலை வரைபடம்</string>
+    <string name="rain">மழை</string>
+    <string name="temperature">வெப்ப நிலை</string>
+    <string name="action_graphs">வரைபடங்கள்</string>
+    <string name="about_us">எங்களை பற்றி</string>
+    <string name="privacy_policy">எங்களை பற்றி</string>
+    <string name="terms_of_use">பயன்பாட்டு விதிமுறைகளை</string>
+    <string name="licenses">உரிமங்கள்</string>
+    <string name="connect_us">எங்களை இணைக்கவும்</string>
+    <string name="version_20_08_01">பதிப்பு 20.08.01</string>
+    <string name="todo">டோடோ</string>
+
+    <string name="mat1">காரீஃப் / நடுத்தர -95 நாட்கள்</string>
+    <string name="mat2">காரீப் / தாமதமாக> 96 நாட்கள்</string>
+    <string name="mat3"> </string>
+    <string name="advisory_services">ஆலோசனை சேவைகள்</string>
+    <string name="type_of_crop">பயிர் வகை</string>
+    <string name="select_crop">பயிர் என்பதைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="select_variety">வெரைட்டியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="pick_date">தேதியைத் தேர்ந்தெடுங்கள்</string>
+    <string name="dd_mm_yyyy">DD/MM/YYYY</string>
+    <string name="next">அடுத்தது</string>
+    <string name="choose">தேர்வு செய்யவும்</string>
+    <string name="add_description_for_image">படத்திற்கான விளக்கத்தைச் சேர்க்கவும்</string>
+    <string name="upload">பதிவேற்றவும்</string>
+    <string name="view_uploads">பதிவேற்றங்களைக் காண்க</string>
+    <string name="crop_discription">பயிர் விளக்கம்</string>
+    <string name="type">வகை</string>
+    <string name="crop">பயிர்</string>
+    <string name="variety">வெரைட்டி</string>
+    <string name="maturity">முதிர்ச்சி</string>
+    <string name="crop_insurance">பயிர் காப்பீடு</string>
+    <string name="rabi_season_october_march_winter">ராபி சீசன்: அக்டோபர் - மார்ச் (குளிர்காலம்)</string>
+    <string name="kharif_season_july_october_monsoon">காரிஃப் சீசன்: ஜூலை - அக்டோபர் (பருவமழை)</string>
+    <string name="zaid_season_march_june_summer">ZAID SEASON: மார்ச் - ஜூன் (கோடை)</string>
+    <string name="companies_offering_crop_insurance">பயிர் காப்பீட்டை வழங்கும் நிறுவனங்கள்</string>
+    <string name="s_no">எஸ்</string>
+    <string name="company">நிறுவனம்</string>
+    <string name="web_address">இணைய முகவரி</string>
+    <string name="_1">1</string>
+   <!-- <string name="crop_protection">பயிர் பாதுகாப்பு</string>
+    <string name="agri_e_commerce">அக்ரி இ-காமர்ஸ்</string>-->
+
+    <string name="upload_pic">படத்தை பதிவேற்றுக</string>
+    <string name="welcome">வரவேற்பு !</string>
+    <string name="dashboard">டாஷ்போர்டு</string>
+    <string name="estimate">மதிப்பீடு</string>
+    <string name="advice">ஆலோசனை</string>
+    <string name="market_price">சந்தை விலை</string>
+    <string name="schemes">திட்டங்கள்</string>
+    <string name="news">செய்தி</string>
+    <string name="retailers">சில்லறை விற்பனையாளர்கள்</string>
+    <string name="videos">வீடியோக்கள்</string>
+    <string name="sign_in">உள்நுழைக</string>
+    <string name="register">பதிவு</string>
+    <string name="name">பெயர்</string>
+    <string name="pradhanmantri_krishi_sinchayee_yojana">பிரதான்மந்திரி கிருஷி சின்சாயி யோஜனா</string>
+    <string name="paramparagat_krishi_vikas_yojana">பரம்பரகத் கிருஷி விகாஸ் யோஜனா</string>
+    <string name="pradhan_mantri_kisan_samman_nidhi">பிரதான் மந்திரி கிசான் சம்மன் நிதி</string>
+    <string name="pradhan_mantri_kisan_maandhan_yojana">பிரதான் மந்திரி கிசான் மந்தன் யோஜனா</string>
+    <string name="soil_health_card_scheme">மண் சுகாதார அட்டை</string>
+    <string name="gramin_bhandaran_yojana">கிராமின் பண்டரன் யோஜனா</string>
+    <string name="kisan_credit_card">கிசான் கிரெடிட் கார்டு</string>
+    <string name="_0_c">0 °C</string>
+    <string name="no_data">தகவல் இல்லை</string>
+    <string name="humidity_0">ஈரப்பதம்: 0%</string>
+    <string name="sunrise_00_00">சூரிய உதயம்: 00:00</string>
+    <string name="sunset_00_00">சூரிய அஸ்தமனம்: 00:00</string>
+    <string name="retailer_services">சில்லறை விற்பனையாளர் சேவைகள்</string>
+    <string name="select_state">மாநிலத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="select_district">மாவட்டத்தைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="contact_no">தொடர்பு எண்</string>
+    <string name="district">மாவட்டம்</string>
+    <string name="state">நிலை</string>
+    <string name="dealer_id">டீலர் ஐடி</string>
+    <string name="agency">ஏஜென்சி</string>
+    <string name="agancy_name">ஏஜென்சி பெயர்</string>
+    <string name="person_name">ஏஜென்சி பெயர்</string>
+    <string name="address">முகவரி</string>
+    <string name="contact">தொடர்பு</string>
+    <string name="home">பிரதான பக்கம்</string>
+    <string name="profile">சுயவிவரம்</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="weather">வானிலை</string>
+    <string name="already_have_an_account">ஏற்கனவே ஒரு கணக்கு உள்ளதா</string>
+    <string name="signup">பதிவுபெறு</string>
+    <string name="advisory">ஆலோசனை</string>
+    <string name="mobile_number">கைபேசி எண்</string>
+    <string name="otp">ஓ டி பி</string>
+    <string name="submit">சமர்ப்பிக்கவும்</string>
+    <string name="proceed">தொடரவும்</string>
+    <string name="crop_description">பயிர் விளக்கம்</string>
+    <string name="cholamandalam_ms_general_insurance_co_ltd">சோளமண்டலம் எம்.எஸ். பொது காப்பீட்டு நிறுவனம் லிமிடெட்</string>
+    <string name="bajaj_alliance_general_insurance_co_ltd">பஜாஜ் அலையன்ஸ் பொது காப்பீட்டு நிறுவனம் லிமிடெட்</string>
+    <string name="agriculture_insurance_company_of_india_pvt_ltd">வேளாண் காப்பீட்டு நிறுவனம் இந்தியா பிரைவேட் லிமிடெட் லிமிடெட்</string>
+    <string name="future_generali_india_insurance_company_ltd">எதிர்கால ஜெனரல் இந்தியா காப்பீட்டு நிறுவனம் லிமிடெட்</string>
+    <string name="hdfc_ergo_general_insurance_co_ltd">HDFC ERGO பொது காப்பீட்டு நிறுவனம் லிமிடெட்.</string>
+    <string name="icici_lombard_general_insurance_co_ltd">ஐ.சி.ஐ.சி.ஐ லோம்பார்ட் ஜெனரல் இன்சூரன்ஸ் கோ லிமிடெட்.</string>
+    <string name="iffco_tokio_general_insurance_co_ltd">இஃப்கோ-டோக்கியோ பொது காப்பீட்டு நிறுவனம் லிமிடெட்.</string>
+    <string name="sbi_general_insurance_co_ltd">எஸ்பிஐ பொது காப்பீட்டு நிறுவனம் லிமிடெட்.</string>
+    <string name="reliance_ngeneral_insurance_co_ltd">ரிலையன்ஸ் G n பொது காப்பீட்டு நிறுவனம் லிமிடெட்</string>
+    <string name="tata_aig_ngeneral_insurance_co_ltd">டாடா ஏ.ஐ.ஜி G n பொது காப்பீட்டு நிறுவனம் லிமிடெட்.</string>
+    <string name="universal_sompo_general_insurance_co_ltd">யுனிவர்சல் சோம்போ பொது காப்பீட்டு நிறுவனம் லிமிடெட்.</string>>
+    <string name="sih_v2">எஸ் ஐ எச்_v2</string>
+    <string name="android_developer">ஆண் போன்ற டெவலப்பர்</string>
+    <string name="verification_done">சரிபார்ப்பு முடிந்தது</string>
+    <string name="rate_us">எங்களை மதிப்பிடு</string>
+    <string name="user_info">பயனர் தகவல்</string>
+    <string name="edit">தொகு</string>>
+    <string name="protection_from_insects">பூச்சிகளிடமிருந்து பாதுகாப்பு</string>
+    <string name="protection_from_diseases">நோய்களிலிருந்து பாதுகாப்பு</string>
+    <string name="protection_from_weeds">களைகளிலிருந்து பாதுகாப்பு</string>
+    <string name="send_us_photo_of_your_crop_to_get_solutions_from_our_experts">எங்கள் நிபுணர்களிடமிருந்து தீர்வுகளைப் பெற உங்கள் பயிரின் புகைப்படத்தை எங்களுக்கு அனுப்புங்கள்</string>
+    <string name="pradhanmantri_fasal_bima_yojana">பிரதான்மந்திரி பாசல் பீமா யோஜனா</string>
+    <string name="wind_0_m_s">காற்று: 0 மீ / வி</string>
+    <string name="pressure_0_hpa">அழுத்தம்: 0 ஹெச்.பி.ஏ.</string>
+    <string name="o">o</string>
+    <string name="crop_insurance_majorly_depends_on_the_crop_season">பயிர் காப்பீடு முக்கியமாக பயிர் பருவத்தைப் பொறுத்தது.</string>
+
+    <string name="fertilizers">Fertilizers</string>
+    <string name="mandi">Mandi</string>
+    <string name="prediction">Prediction</string>
+    <string name="protection">Protection</string>
+    <string name="insurance">Insurance</string>
+
+
+    <string name="sr_no">S. No.</string>
+    <string name="transport">Transporter</string>
+    <string name="webaddress">Web Address</string>
+    <string name="transinfo">இந்த தொற்றுநோய்களில் போக்குவரத்துக்கு விவசாயிகளுக்கு சேவைகளை வழங்கும் சில நிறுவனங்கள் இவை.</string>
+    <string name="transin">Transin Logistics</string>
+    <string name="transtitle">இல் போக்குவரத்து COVID-19</string>
+    <string name="suvidha">Truck Suvidha</string>
+    <string name="rivigo">Rivigo Services Pvt Ltd</string>
+    <string name="guru">Truck Guru</string>
+    <string name="elastic">Elastic Run</string>
+    <string name="blackbuck">Blackbuck</string>
+    <string name="mavyn">Mavyn</string>
+    <string name="jusda">Jusda India</string>
+    <string name="parivahan">eParivahan</string>
+    <string name="famregister">பயனர்கள் ஒவ்வொரு வலைத்தளத்திலும் பதிவு செய்ய வேண்டும்.</string>
+    <string name="covid">Covid-19</string>
+
+</resources>

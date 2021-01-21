@@ -1,0 +1,327 @@
+<resources>
+
+    <string name="app_name">सामग्री लॉगिन पृष्ठ</string>
+    <string name="top_icon">शीर्ष ICON</string>
+    <string name="email">ईमेल</string>
+    <string name="password">कुंजिका</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="forgot_password">पासवर्ड भूल गए ?</string>
+    <string name="or">या</string>
+    <string name="google_icon">गूगल आइकन</string>
+    <string name="facebook_icon">फेसबुक चिह्न</string>
+    <string name="new_user_register_now">नया उपयोगकर्ता? अभी पंजीकरण करें</string>
+
+    <string name="hello_blank_fragment">हैलो ब्लैंक फ्रैगमेंट</string>
+    <string name="category_headlines">मुख्य बातें</string>
+    <string name="category_technology">प्रौद्योगिकी</string>
+    <string name="category_sports">खेल</string>
+    <string name="category_business">व्यापार</string>
+    <string name="category_world">विश्व</string>
+    <string name="category_entertainment">मनोरंजन</string>
+    <string name="category_science">विज्ञान</string>
+    <string name="title_activity_bottom">मुख्य गतिविधि</string>
+    <string name="title_home">घर</string>
+    <string name="title_dashboard">डैशबोर्ड</string>
+    <string name="title_notifications">सूचनाएं</string>
+    <string name="scheme1"><p>PMFBY के तहत, किसानों द्वारा भुगतान की जाने वाली प्रीमियम दरें बहुत कम हैं और शेष प्रीमियम का भुगतान सरकार द्वारा किया जाएगा।
+        सरकारी सब्सिडी पर कोई ऊपरी सीमा नहीं है। \ n हटाया गया: फरवरी 18, 2016 </p></string>
+
+    <string name="scheme2"><p>यह कृषि उत्पादकता में सुधार लाने और देश में संसाधनों के बेहतर उपयोग को सुनिश्चित करने के लिए एक राष्ट्रीय मिशन है। एक वर्ष 2015-2016 के समय अवधि में in 53 बिलियन का बजट इस योजना को आवंटित किया गया है। \ n हटाया गया: 01 जुलाई, 2015</p></string>
+
+    <string name="scheme3"><p>इस योजना के तहत तीन बराबर किस्तों में प्रति वर्ष 6,000 / - की आय सहायता छोटे और सीमांत किसान परिवारों को 2 हेक्टेयर तक की संयुक्त भूमि जोत / स्वामित्व वाली प्रदान की जाएगी। \ n हटाया गया: Feb 01, 2019   </p></string>
+
+    <string name="scheme4"><p>प्रधान मंत्री किसान योजना योजना एक सरकारी योजना है जो वृद्धावस्था संरक्षण और लघु और सीमांत किसानों (SMF) की सामाजिक सुरक्षा के लिए है। \ n बिना अनुमति के: 12 सितंबर, 2019  </p></string>
+
+    <string name="scheme5"><p>प्रधान मंत्री किसान योजना योजना एक सरकारी योजना है जो वृद्धावस्था संरक्षण और लघु और सीमांत किसानों (SMF) की सामाजिक सुरक्षा के लिए है। \ n बिना अनुमति के: 12 सितंबर, 2019   </p></string>
+
+    <string name="scheme6"><p>इसके तहत, सरकार किसानों के लिए मृदा कार्ड जारी करने की योजना बना रही है, जो व्यक्तिगत फार्मों के लिए आवश्यक पोषक तत्वों और उर्वरकों की फसलवार सिफारिशें लेकर जाएंगे, ताकि किसानों को इनपुट के विवेकपूर्ण उपयोग के माध्यम से उत्पादकता में सुधार करने में मदद मिल सके। \ n हटाया गया: Feb 19, 2015 </p></string>
+
+    <string name="scheme7"><p>कृषि उपज के भंडारण के लिए ग्रामीण गोदामों या गोदामों के निर्माण या नवीनीकरण के लिए एक पूंजी निवेश सब्सिडी योजना है। इस योजना का उद्देश्य किसानों को उनकी धारण क्षमता बढ़ाने में सहायता करना है। \ n बिना अनुमति: 31 मार्च, 2007  </p></string>
+
+    <string name="scheme8"><p>यह सुनिश्चित करने के लिए कि सभी पात्र किसानों को उनके कृषि ऑपरेशन के लिए परेशानी मुक्त और समय पर ऋण प्रदान किया जाता है। किसान, शेयर क्रॉपर्स, मौखिक पट्टेदार और किरायेदार किसान योजना के तहत कवर किए जाने के पात्र हैं। \ n हटाया गया: अगस्त 1998 </p></string>
+
+    <string name="scheme9"><p> प्राकृतिक संसाधन आधारित एकीकृत और जलवायु लचीला टिकाऊ कृषि प्रणालियों को बढ़ावा देने के लिए जो रखरखाव को सुनिश्चित करते हैं और ओडी मिट्टी की उर्वरता, प्राकृतिक संसाधन संरक्षण, ऑन-फार्म पोषक तत्वों की रीसाइक्लिंग को बढ़ाते हैं और बाहरी आदानों पर किसानों की निर्भरता को कम करते हैं। \n हटाया गया: 2015 </p></string>
+
+    <string name="scheme10"><p>   </p></string>
+
+    <string name="scheme11"><p>   </p>!</string>
+
+    <string name="scheme12"><p>   </p>!</string>
+
+
+    <!-- FOR WEATHER -->
+
+    <string name="action_search">खोज</string>
+    <string name="action_refresh">अनुसंधान</string>
+    <string name="action_settings">समायोजन</string>
+    <string name="action_about">के बारे में</string>
+
+    <string name="today">आज</string>
+    <string name="tomorrow">आने वाला कल</string>
+    <string name="later">बाद में</string>
+
+    <string name="wind">हवा</string>
+    <string name="pressure">दबाव</string>
+    <string name="humidity">नमी</string>
+    <string name="sunrise">सूर्योदय</string>
+    <string name="sunset">सूर्य का अस्त होना</string>
+
+    <string name="last_update">अंतिम अद्यतन: \ n% s</string>
+    <string name="last_update_widget">\nअंतिम अपडेट:% s</string>
+
+    <string name="search_title">शहर के लिए खोजें</string>
+
+    <string name="downloading_data">आपका डेटा डाउनलोड हो रहा है  </string>
+    <string name="getting_location">अपना स्थान प्राप्त कर रहा है  </string>
+
+    <string name="error_dateFormat">दिनांक प्रारूप त्रुटि</string>
+
+    <string name="setting_dateFormat">डेटा प्रारूप</string>
+    <string name="setting_dateFormatCustom">कस्टम दिनांक प्रारूप</string>
+    <string name="setting_dateFormatCustom_summary">Pउपयोग करने के लिए कस्टम सरल दिनांक प्रारूप स्ट्रिंग प्रदान करें</string>
+    <string name="setting_lengthUnits">लंबाई की इकाइयाँ</string>
+    <string name="setting_speedUnits">स्पीड यूनिट</string>
+    <string name="setting_tempUnits">तापमान इकाइयों</string>
+    <string name="setting_showTempAsInteger">केवल पूर्णांक के रूप में तापमान दिखाएं</string>
+    <string name="setting_pressureUnits">दबाव इकाइयों</string>
+    <string name="setting_theme">विषय</string>
+    <string name="setting_auto_detect_location">स्थान का पता लगाएं</string>
+    <string name="setting_differentiateDaysByTint">रंग के साथ अलग दिन</string>
+    <string name="setting_refreshInterval">पृष्ठभूमि ताज़ा अंतराल</string>
+    <string name="setting_unit_mps">मीटर प्रति सेकंड (एम / एस)</string>
+    <string name="setting_unit_kph">किलोमीटर प्रति घंटा (kph)</string>
+    <string name="setting_unit_mph">मील प्रति घंटा (mph)</string>
+    <string name="setting_unit_bft">ब्यूफोर्ट पवन पैमाने (bft)</string>
+    <string name="setting_unit_kn">समुद्री मील (kn)</string>
+    <string name="setting_wind_direction_format">हवा की दिशा प्रारूप</string>
+    <string name="settings_none">कोई नहीं</string>
+    <string name="setting_apiKey">एपीआई कुंजी</string>
+    <string name="setting_apiKey_summary">मौसम मानचित्र खोलें प्रश्नों के लिए कस्टम एपीआई कुंजी</string>
+
+    <string name="setting_unit_Celsuis">सेल्सीयस</string>
+    <string name="setting_unit_Fahrenheit">फारेनहाइट</string>
+    <string name="setting_unit_Kelvin">केल्विन</string>
+
+    <string name="setting_unit_mm">मिलीमीटर (मिमी)</string>
+    <string name="setting_unit_in">इंच (में)</string>
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">मिमी एचजी</string>
+    <string name="setting_unit_inhg">एचजी में</string>
+
+    <string name="speed_unit_mps">एमएस</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">मील प्रति घंटा</string>
+    <string name="speed_unit_kn">के.एन.</string>
+
+    <string name="wind_direction_format_none">कोई संकेत नहीं</string>
+    <string name="wind_direction_format_arrows">तीर</string>
+    <string name="wind_direction_format_abbreviations">लघुरूप</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="setting_theme_fresh">ताज़ा</string>
+    <string name="setting_theme_classic">क्लासिक</string>
+    <string name="setting_theme_dark">ताजा अंधेरा</string>
+    <string name="setting_theme_classic_dark">क्लासिक डार्क</string>
+
+    <string name="dialog_ok">ठीक है</string>
+    <string name="dialog_cancel">रद्द करना</string>
+
+    <string name="msg_err_parsing_json">JSON को पार्स करने में त्रुटि।.</string>
+    <string name="msg_connection_problem">आपके इंटरनेट कनेक्शन में कोई समस्या है</string>
+    <string name="msg_connection_not_available">कनेक्शन उपलब्ध नहीं है।</string>
+    <string name="msg_city_not_found">निर्दिष्ट शहर नहीं मिला है।</string>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">बहुत सारे अनुरोध। कृपया पुन: प्रयास करें।</string>
+
+    <!-- 1: temperature; 2: unit -->
+    <string name="dash_clock_status">%1$s%2$s</string>
+    <!-- 1: temperature; 2: unit; 3: weather description -->
+    <string name="dash_clock_expanded_title">%1$s%2$s - %3$s</string>
+    <!-- 1: city; 2: country; 3: wind; 4: speed units; 5: pressure; 6: pressure units; 7: humidity -->
+    <string name="dash_clock_expanded_body">%1$s, %2$s\nWind: %3$s %4$s\nPressure: %5$s %6$s\nHumidity: %7$s %%\n</string>
+    <string name="settings_title_units">इकाइयों</string>
+    <string name="settings_title_display">प्रदर्शन</string>
+    <string name="settings_title_data">डेटा</string>
+    <string name="setting_displayDecimalZeroes">दशमलव शून्य प्रदर्शित करें</string>
+    <string name="settings_title_location">स्थान</string>
+    <string name="setting_update_location_automatically">पृष्ठभूमि में अद्यतन स्थान</string>
+
+    <string name="location_settings">स्थान सेटिंग्स</string>
+    <string name="location_settings_message">स्थान सक्षम नहीं है। क्या आप सेटिंग मेनू पर जाना चाहते हैं?</string>
+    <string name="location_settings_button">समायोजन</string>
+    <string name="action_weather_map">मौसम मानचित्र</string>
+    <string name="rain">बारिश</string>
+    <string name="temperature">तापमान</string>
+    <string name="action_graphs">रेखांकन</string>
+    <string name="about_us">हमारे बारे में</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="terms_of_use">उपयोग की शर्तें</string>
+    <string name="licenses">लाइसेंस</string>
+    <string name="connect_us">हमसे कनेक्ट करें</string>
+    <string name="version_20_08_01">संस्करण 20.08.01</string>
+    <string name="todo">करने के लिए</string>
+
+    <string name="mat1">खरीफ / मध्यम -95 दिन</string>
+    <string name="mat2">खरीफ / लेट> 96 दिन</string>
+    <string name="mat3"></string>
+    <string name="advisory_services">सलाहकार सेवाएं</string>
+    <string name="type_of_crop">फसल का प्रकार</string>
+    <string name="select_crop">फसल का चयन करें</string>
+    <string name="select_variety">विविधता का चयन करें</string>
+    <string name="pick_date">Pick date</string>
+    <string name="dd_mm_yyyy">तिथि / महीना / साल</string>
+    <string name="next">आगे</string>
+    <string name="choose">चुनें</string>
+    <string name="add_description_for_image">छवि के लिए विवरण जोड़ें</string>
+    <string name="upload">डालना</string>
+    <string name="view_uploads">अपलोड देखें</string>
+    <string name="crop_discription">फसल विवरण</string>
+    <string name="type">प्रकार</string>
+    <string name="crop">काटना</string>
+    <string name="variety">वैराइटी</string>
+    <string name="maturity">परिपक्वता</string>
+    <string name="crop_insurance">फसल बीमा</string>
+    <string name="rabi_season_october_march_winter">रबी सीजन: अक्टूबर - मार्च (शीतकालीन)</string>
+    <string name="kharif_season_july_october_monsoon">खेरिफ सेसन: जुलाई - अक्टूबर (मानसून)</string>
+    <string name="zaid_season_march_june_summer">ZAID SEASON: मार्च - जून (ग्रीष्म)</string>
+    <string name="companies_offering_crop_insurance">सीआरओपी बीमा प्रदान करने वाली कंपनियां</string>
+    <string name="s_no">क्रमांक</string>
+    <string name="company">संगठन</string>
+    <string name="web_address">वेब पता</string>
+    <string name="_1">1</string>
+    <string name="protection">सुरक्षा</string>
+    <string name="insurance">Insurance</string>
+   <!-- <string name="crop_protection">फसल सुरक्षा</string>
+    <string name="agri_e_commerce">एग्री ई-कॉमर्स</string>-->
+
+
+    <string name="fertilizers">Fertilizers</string>
+    <string name="mandi">Mandi</string>
+    <string name="prediction">Prediction</string>
+
+    <string name="upload_pic">तसवीर डालें</string>
+    <string name="welcome">स्वागत हे!</string>
+    <string name="dashboard">डैशबोर्ड</string>
+    <string name="estimate">आकलन</string>
+    <string name="advice">सलाह</string>
+    <string name="market_price">बाजार मूल्य</string>
+    <string name="schemes">योजनाएं</string>
+    <string name="news">समाचार</string>
+    <string name="retailers">विक्रेता</string>
+    <string name="videos">वीडियो</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name="register">पंजिका</string>
+    <string name="name">नाम</string>
+    <string name="pradhanmantri_krishi_sinchayee_yojana">प्रधानमंत्री कृषि सिचाई योजना</string>
+    <string name="paramparagat_krishi_vikas_yojana">परम्परागत कृषि विकास योजना</string>
+    <string name="pradhan_mantri_kisan_samman_nidhi">प्रधान मंत्री किसान सम्मान निधि</string>
+    <string name="pradhan_mantri_kisan_maandhan_yojana">प्रधानमंत्री किसान योजना योजना</string>
+    <string name="soil_health_card_scheme">मृदा स्वास्थ्य कार्ड योजना</string>
+    <string name="gramin_bhandaran_yojana">ग्रामीण भंडार योजना</string>
+    <string name="kisan_credit_card">किसान क्रेडिट कार्ड</string>
+    <string name="_0_c">0 °C</string>
+    <string name="no_data">कोई आकड़ा उपलब्ध नहीं है</string>
+    <string name="humidity_0">आर्द्रता: 0%</string>
+    <string name="sunrise_00_00">सूर्योदय: 00:00</string>
+    <string name="sunset_00_00">सूर्यास्त: ००:००</string>
+    <string name="retailer_services">रिटेलर सर्विसेज</string>
+    <string name="select_state">राज्य चुनें</string>
+    <string name="select_district">जिले का चयन करें</string>
+    <string name="contact_no">संपर्क नंबर।</string>
+    <string name="district">जिला</string>
+    <string name="state">राज्य</string>
+    <string name="dealer_id">डीलर आईडी</string>
+    <string name="agency">संस्था</string>
+    <string name="agancy_name">संस्था का नाम</string>
+    <string name="person_name">व्यक्ति का नाम</string>
+    <string name="address">पता</string>
+    <string name="contact">संपर्क करें</string>
+    <string name="home">मुख पृष्ठ</string>
+    <string name="profile">रूपरेखा</string>
+    <string name="settings">समायोजन</string>
+    <string name="weather">मौसम</string>
+    <string name="already_have_an_account">क्या आपके पास पहले से एक खाता मौजूद है</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="advisory">सलाहकार</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="otp">ओ टी पी</string>
+    <string name="submit">प्रस्तुत</string>
+    <string name="proceed">बढ़ना</string>
+    <string name="crop_description">फसल विवरण</string>
+    <string name="cholamandalam_ms_general_insurance_co_ltd">चोलामंडलम एमएस जनरल इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="bajaj_alliance_general_insurance_co_ltd">बजाज आलियांज सामान्य बीमा कंपनी लिमिटेड</string>
+    <string name="agriculture_insurance_company_of_india_pvt_ltd">भारतीय कृषि बीमा कंपनी प्रा। लिमिटेड</string>
+    <string name="future_generali_india_insurance_company_ltd">भविष्य जेनरल इंडिया इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="hdfc_ergo_general_insurance_co_ltd">एचडीएफसी ईआरजीओ जनरल इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="icici_lombard_general_insurance_co_ltd">कंपनी लिमिटेड कंपनी लिमिटेड</string>
+    <string name="iffco_tokio_general_insurance_co_ltd">इफको-टोकियो जनरल इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="sbi_general_insurance_co_ltd">एसबीआई जनरल इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="reliance_ngeneral_insurance_co_ltd">रिलायंस जनरल इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="tata_aig_ngeneral_insurance_co_ltd">टाटा एआईजी \ n जेनरल इंश्योरेंस कंपनी लिमिटेड</string>
+    <string name="universal_sompo_general_insurance_co_ltd">यूनिवर्सल सोमपो जनरल इंश्योरेंस कंपनी लिमिटेड</string>>
+    <string name="sih_v2">एस आई एच V2</string>
+    <string name="android_developer">एंड्रॉयड डेवलपर</string>
+    <string name="verification_done">सत्यापन किया गया</string>
+    <string name="rate_us">हमें मूल्यांकन दें</string>
+    <string name="user_info">उपयोगकर्ता की जानकारी</string>
+    <string name="edit">संपादित करें</string>>
+    <string name="protection_from_insects">कीटों से सुरक्षा</string>
+    <string name="protection_from_diseases">रोगों से सुरक्षा</string>
+    <string name="protection_from_weeds">मातम से सुरक्षा</string>
+    <string name="send_us_photo_of_your_crop_to_get_solutions_from_our_experts">हमारे विशेषज्ञों से समाधान प्राप्त करने के लिए अपनी फसल की फोटो हमें भेजें</string>
+    <string name="pradhanmantri_fasal_bima_yojana">प्रधानमंत्री आवास योजना</string>
+    <string name="wind_0_m_s">पवन: 0 मी। / से</string>
+    <string name="pressure_0_hpa">दबाव: 0 हेपा</string>
+    <string name="o">o</string>
+    <string name="crop_insurance_majorly_depends_on_the_crop_season">फसल बीमा प्रमुख रूप से फसल सीजन पर निर्भर करता है।</string>
+
+
+    <string name="sr_no">S. No.</string>
+    <string name="transport">Transporter</string>
+    <string name="webaddress">Web Address</string>
+    <string name="transinfo">ये कुछ कंपनियां हैं जो इस महामारी में परिवहन में किसानों को सेवाएं प्रदान करती हैं।</string>
+    <string name="transtitle">कोविड-19 में परिवहन</string>
+    <string name="transin">Transin Logistics</string>
+    <string name="suvidha">Truck Suvidha</string>
+    <string name="rivigo">Rivigo Services Pvt Ltd</string>
+    <string name="guru">Truck Guru</string>
+    <string name="elastic">Elastic Run</string>
+    <string name="blackbuck">Blackbuck</string>
+    <string name="mavyn">Mavyn</string>
+    <string name="jusda">Jusda India</string>
+    <string name="parivahan">eParivahan</string>
+    <string name="famregister">उपयोगकर्ताओं को प्रत्येक वेबसाइट पर पंजीकरण करना होगा ।</string>
+    <string name="covid">Covid-19</string>
+
+
+</resources>

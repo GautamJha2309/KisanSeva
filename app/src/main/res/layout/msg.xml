@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="32dp"
+    android:paddingVertical="16dp">
+
+    <TextView
+        android:id="@+id/agency_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Agency"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/person_name_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Person Name"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/agency_label" />
+
+    <TextView
+        android:id="@+id/contact_number_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Contact No."
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/person_name_label" />
+
+    <TextView
+        android:id="@+id/dealer_id_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Dealer ID"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/contact_number_label" />
+
+    <TextView
+        android:id="@+id/district_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="District"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/dealer_id_label" />
+
+    <TextView
+        android:id="@+id/state_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="State"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/district_label" />
+
+    <androidx.constraintlayout.widget.Barrier
+        android:id="@+id/label_barrier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:barrierDirection="end"
+        app:constraint_referenced_ids="agency_label,person_name_label,contact_number_label,dealer_id_label,district_label,state_label" />
+
+    <TextView
+        android:id="@+id/agency_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:text="Agancy Name"
+        android:textColor="#101010"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/label_barrier"
+        app:layout_constraintTop_toTopOf="@+id/agency_label" />
+
+    <TextView
+        android:id="@+id/person_name_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:text="Person Name"
+        android:textColor="#101010"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/label_barrier"
+        app:layout_constraintTop_toTopOf="@+id/person_name_label" />
+
+    <TextView
+        android:id="@+id/contact_number_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:maxLength="15"
+        android:text="contact"
+        android:textColor="#101010"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/label_barrier"
+        app:layout_constraintTop_toTopOf="@+id/contact_number_label" />
+
+    <TextView
+        android:id="@+id/dealer_id_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:text="dealer Id"
+        android:textColor="#101010"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/label_barrier"
+        app:layout_constraintTop_toTopOf="@+id/dealer_id_label" />
+
+    <TextView
+        android:id="@+id/district_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="48dp"
+        android:text="district"
+        android:textColor="#101010"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/label_barrier"
+        app:layout_constraintTop_toTopOf="@+id/district_label" />
+
+    <TextView
+        android:id="@+id/state_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="26dp"
+        android:layout_marginStart="48dp"
+        android:text="state"
+        android:textColor="#101010"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/label_barrier"
+        app:layout_constraintTop_toTopOf="@+id/state_label" />
+    <!--    -->
+    <!--    <TextView-->
+    <!--        android:id="@+id/address"-->
+    <!--        android:layout_width="296dp"-->
+    <!--        android:layout_height="51dp"-->
+    <!--        android:text="Address"-->
+    <!--        android:textColor="#101010"-->
+    <!--        android:textSize="18sp"-->
+    <!--        android:textStyle="bold"-->
+    <!--        android:visibility="gone"-->
+    <!--        app:layout_constraintBottom_toTopOf="@+id/contact"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintHorizontal_bias="0.321"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/personName" />-->
+
+
+    <!--
+    <View
+        android:id="@+id/topView"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:background="@color/appColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/wave"
+        android:backgroundTint="@color/appColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/topView" />
+
+    <TextView
+        android:id="@+id/topText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="Retailer Services"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/topView"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+    <TableLayout
+        android:layout_marginTop="180dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f1f1f1"
+        android:padding="15dp">
+
+    <TableRow
+        android:background="#704ED36E"
+        android:padding="2dp">
+
+    <TextView
+        android:id="@+id/Agency"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Agency"
+        android:textColor="#1A652C"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/agencyName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Agency Name"
+        android:background="@color/white"
+        android:textColor="#1A652C"
+        android:textStyle="bold" />
+
+
+    </TableRow>
+
+        <TableRow
+            android:background="#704ED36E"
+            android:padding="2dp">
+
+            <TextView
+                android:id="@+id/Variety"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Headed by "
+                android:textColor="#1A652C"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/personName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Person Name"
+                android:background="@color/white"
+                android:textColor="#1A652C"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:background="#704ED36E"
+            android:padding="2dp">
+
+            <TextView
+                android:id="@+id/variety"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Contact Number "
+                android:textColor="#1A652C"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/contact"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="contact"
+                android:background="@color/white"
+                android:textColor="#1A652C"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:background="#704ED36E"
+            android:padding="2dp">
+
+            <TextView
+                android:id="@+id/variety2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Dealer ID "
+                android:textColor="#1A652C"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/dealerId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="dealer Id"
+                android:background="@color/white"
+                android:textColor="#1A652C"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:background="#704ED36E"
+            android:padding="2dp">
+
+            <TextView
+                android:id="@+id/variety3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="District"
+                android:textColor="#1A652C"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/district"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="district"
+                android:background="@color/white"
+                android:textColor="#1A652C"
+                android:textStyle="bold" />
+        </TableRow>
+
+        <TableRow
+            android:background="#704ED36E"
+            android:padding="2dp">
+
+            <TextView
+                android:id="@+id/variety4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="State"
+                android:textColor="#1A652C"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="state"
+                android:background="@color/white"
+                android:textColor="#1A652C"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>
+
+-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

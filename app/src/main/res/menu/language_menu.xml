@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity"
+    >
+
+    <item
+        android:id="@+id/lang"
+        android:title="Language"
+        android:icon="@drawable/translate"
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/language_en"
+        android:title="English"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/language_hi"
+        android:title="हिन्दी"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/language_ta"
+        android:title="தமிழ்"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/language_mr"
+        android:title="मराठी"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/language_bn"
+        android:title="বাঙালি"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/language_pa"
+        android:title="ਪੰਜਾਬੀ"
+        app:showAsAction="never"/>
+
+</menu>

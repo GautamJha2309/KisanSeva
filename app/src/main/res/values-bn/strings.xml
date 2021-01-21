@@ -1,0 +1,331 @@
+<resources>
+    <string name="app_name">উপাদান লগইন পৃষ্ঠা</string>
+    <string name="top_icon">উপাদান লগইন পৃষ্ঠা</string>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="forgot_password">পাসওয়ার্ড ভুলে গেছেন?</string>
+    <string name="or">অথবা</string>
+    <string name="google_icon">গুগল আইকন</string>
+    <string name="facebook_icon">ফেসবুক আইকন</string>
+    <string name="new_user_register_now"> নতুন ব্যবহারকারী? এখন নিবন্ধন করুন</string>
+
+    <string name="hello_blank_fragment">হ্যালো ফাঁকা খণ্ড</string>
+    <string name="category_headlines">হ্যালো ফাঁকা খণ্ড</string>
+    <string name="category_technology">প্রযুক্তি</string>
+    <string name="category_sports">স্পোর্টস</string>
+    <string name="category_business"> ব্যবসায়</string>
+    <string name="category_world">বিশ্ব</string>
+    <string name="category_entertainment">বিনোদন</string>
+    <string name="category_science">বিজ্ঞান</string>
+    <string name="title_activity_bottom">বিজ্ঞান</string>
+    <string name="title_home">বাড়ি</string>
+    <string name="title_dashboard">ড্যাশবোর্ড</string>
+    <string name="title_notifications">ড্যাশবোর্ড</string>
+    <string name="scheme1"><p>পিএমএফবিওয়াইয়ের আওতায় কৃষকদের প্রদেয় প্রিমিয়াম হারগুলি খুব কম এবং ব্যালেন্স প্রিমিয়াম সরকার প্রদান করবে।সরকারী ভর্তুকিতে কোনও উচ্চতর সীমা নেই \ a n চালু হয়েছে: 18 ফেব্রুয়ারী, 2016</p></string>
+
+    <string name="scheme2"><p>কৃষিক্ষেত্রে উত্পাদনশীলতা উন্নত করা এবং দেশের সম্পদগুলির আরও ভাল ব্যবহার নিশ্চিত করা এটি একটি জাতীয় লক্ষ্য 2015</p></string>
+
+    <string name="scheme3"><p>প্রাকৃতিক সম্পদ ভিত্তিক সংহত ও জলবায়ু সহনশীল টেকসই কৃষিকাজার উন্নয়নের জন্য যা মাটির উর্বরতা রক্ষণাবেক্ষণ এবং বৃদ্ধি, প্রাকৃতিক সম্পদ সংরক্ষণ, খামার পুষ্টির পুনর্ব্যবহার এবং বহিরাগত ইনপুটগুলিতে কৃষকদের নির্ভরতা হ্রাস করতে নিশ্চিত করে।     </p></string>
+
+    <string name="scheme4"><p>এই প্রকল্পের আওতায় প্রতি বছর তিনটি সমান কিস্তিতে 6,000 / - টাকার আয়ের সহায়তা 2 হেক্টর পর্যন্ত জমির মালিকানা / মালিকানাধীন ক্ষুদ্র ও প্রান্তিক কৃষক পরিবারগুলিকে প্রদান করা হবে \ L লঞ্চ: 01 ফেব্রুয়ারী, 2019   </p></string>
+
+    <string name="scheme5"><p>প্রধানমন্ত্রীর কৃষ্ণবন্ধন যোজনা একটি সরকারি স্কিম যা বৃদ্ধ ও সুরক্ষা এবং ক্ষুদ্র ও প্রান্তিকের সামাজিক সুরক্ষার জন্য
+        কৃষক (এসএমএফ) \ n লঞ্চ: 12 সেপ্টেম্বর, 2019</p></string>
+
+    <string name="scheme6"><p>এর আওতায় সরকার কৃষকদের মাটি কার্ড দেওয়ার পরিকল্পনা করেছে যা ইনপুটগুলির ন্যায়বিচারের ব্যবহারের মাধ্যমে উত্পাদনশীলতা উন্নয়নে কৃষকদের সহায়তা করার জন্য পৃথক খামারের জন্য প্রয়োজনীয় পুষ্টি এবং সারের ফসল ভিত্তিক সুপারিশ বহন করবে। a n লঞ্চ: ফেব্রুয়ারী 19, 2015 </p></string>
+
+    <string name="scheme7"><p>খামার উত্পাদন সংরক্ষণের জন্য গ্রামীণ গুদাম বা গোডাউন নির্মাণ বা সংস্কারের জন্য মূলধন বিনিয়োগের ভর্তুকি প্রকল্প।</p></string>
+
+    <string name="scheme8"><p>যাতে নিশ্চিত হয়ে যায় যে সমস্ত যোগ্য কৃষককে তাদের কৃষিকাজ পরিচালনার জন্য ঝামেলা মুক্ত ও সময় মতো creditণ সরবরাহ করা হয়েছে। প্রান্তিক কৃষক, ভাগের ফসল, মৌখিক লিজ এবং ভাড়াটে কৃষকরা এই প্রকল্পের আওতায় আসার যোগ্য eligible a প্রবর্তিত: আগস্ট, 1998  </p></string>
+
+    <string name="scheme9"><p>  </p></string>
+
+    <string name="scheme10"><p>   </p></string>
+
+    <string name="scheme11"><p>   </p>!</string>
+
+    <string name="scheme12"><p>   </p>!</string>
+
+
+    <!-- FOR WEATHER -->
+
+    <string name="action_search">অনুসন্ধান করুন</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">বিন্যাস</string>
+    <string name="action_about"> সম্পর্কিত</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">আগামীকাল</string>
+    <string name="later">পরবর্তীতে</string>
+
+    <string name="wind">বায়ু</string>
+    <string name="pressure">চাপ</string>
+    <string name="humidity">চাপ</string>
+    <string name="sunrise"> সূর্যোদয়</string>
+    <string name="sunset">সূর্যাস্ত</string>
+
+    <string name="last_update">শেষ আপডেট: \n%s</string>
+    <string name="last_update_widget">\nশেষ আপডেট: %s</string>
+
+    <string name="search_title">শহর অনুসন্ধান করুন</string>
+
+    <string name="downloading_data">আপনার ডেটা ডাউনলোড হচ্ছে  </string>
+    <string name="getting_location">আপনার অবস্থান পাচ্ছে </string>
+
+    <string name="error_dateFormat">তারিখ ফর্ম্যাট ত্রুটি</string>
+
+    <string name="setting_dateFormat">তারিখ বিন্যাস</string>
+
+
+    <string name="setting_dateFormatCustom">কাস্টম তারিখ বিন্যাস</string>
+    <string name="setting_dateFormatCustom_summary">কাস্টম সরলডেটফর্ম্যাট স্ট্রিংটি ব্যবহার করার জন্য সরবরাহ করুন</string>
+    <string name="setting_lengthUnits">কাস্টম সরলডেটফর্ম্যাট স্ট্রিংটি ব্যবহার করার জন্য সরবরাহ করুন</string>
+    <string name="setting_speedUnits">গতি ইউনিট</string>
+    <string name="setting_tempUnits">তাপমাত্রা ইউনিট</string>
+    <string name="setting_showTempAsInteger">তাপমাত্রা ইউনিট</string>
+    <string name="setting_pressureUnits">চাপ ইউনিট</string>
+    <string name="setting_theme">চাপ ইউনিট</string>
+    <string name="setting_auto_detect_location">অবস্থান সনাক্ত করুন</string>
+    <string name="setting_differentiateDaysByTint">রঙের সাথে দিন পার্থক্য করুন</string>
+    <string name="setting_refreshInterval">পটভূমি রিফ্রেশ অন্তর</string>
+    <string name="setting_unit_mps">প্রতি সেকেন্ডে মিটার (মি / সে)</string>
+    <string name="setting_unit_kph">প্রতি ঘন্টা কিলোমিটার (কেপিএফ)</string>
+    <string name="setting_unit_mph">মাইল প্রতি ঘন্টা (মাইল)</string>
+    <string name="setting_unit_bft">বিউফোর্ট বায়ু স্কেল (বামফুট)</string>
+    <string name="setting_unit_kn">Knots (kn)</string>
+
+
+    <string name="setting_wind_direction_format">বাতাসের দিকের বিন্যাস</string>
+    <string name="settings_none">না</string>
+    <string name="setting_apiKey">এপিআই কী</string>
+    <string name="setting_apiKey_summary">ওপেন ওয়েদারম্যাপ প্রশ্নের জন্য কাস্টম এপিআই কী</string>
+
+    <string name="setting_unit_Celsuis">তাপমাপক যন্ত্র</string>
+    <string name="setting_unit_Fahrenheit">তাপমান যন্ত্রবিশেষ</string>
+    <string name="setting_unit_Kelvin">কেলভিন</string>
+
+    <string name="setting_unit_mm">মিলিমিটার (মিমি)</string>
+    <string name="setting_unit_in">ইঞ্চি (ইন)</string>
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">in Hg</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="wind_direction_format_none">কোনও ইঙ্গিত নেই</string>
+    <string name="wind_direction_format_arrows">তীর</string>
+    <string name="wind_direction_format_abbreviations">শব্দ সংক্ষেপ</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="setting_theme_fresh">তাজা</string>
+    <string name="setting_theme_classic">সর্বোত্তম</string>
+    <string name="setting_theme_dark">ফ্রেশ ডার্ক</string>
+    <string name="setting_theme_classic_dark">Classic Dark</string>
+
+    <string name="dialog_ok">ঠিক আছে</string>
+    <string name="dialog_cancel">ঠিক আছে</string>
+
+    <string name="msg_err_parsing_json">Error parsing JSON.</string>
+    <string name="msg_connection_problem">আপনার ইন্টারনেট সংযোগে একটি সমস্যা আছে।</string>
+    <string name="msg_connection_not_available">সংযোগ উপলব্ধ নেই।</string>
+    <string name="msg_city_not_found">নির্দিষ্ট শহর খুঁজে পাওয়া যায় নি। </string>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">নির্দিষ্ট শহর খুঁজে পাওয়া যায় নি। </string>
+
+        <!-- 1: temperature; 2: unit -->
+        <string name="dash_clock_status">%1$s%2$s</string>
+        <!-- 1: temperature; 2: unit; 3: weather description -->
+        <string name="dash_clock_expanded_title">%1$s%2$s - %3$s</string>
+        <!-- 1: city; 2: country; 3: wind; 4: speed units; 5: pressure; 6: pressure units; 7: humidity -->
+        <string name="dash_clock_expanded_body">%1$s, %2$s\nWind: %3$s %4$s\nPressure: %5$s %6$s\nHumidity: %7$s %%\n</string>
+    <string name="settings_title_units">ইউনিট</string>
+    <string name="settings_title_display">প্রদর্শন</string>
+    <string name="settings_title_data">উপাত্ত</string>
+    <string name="setting_displayDecimalZeroes">দশমিক শূন্য প্রদর্শন করুন</string>
+    <string name="settings_title_location">অবস্থান</string>
+    <string name="setting_update_location_automatically">পটভূমিতে অবস্থান আপডেট করুন</string>
+
+    <string name="location_settings">অবস্থান সেটিংস</string>
+    <string name="location_settings_message">অবস্থান সক্ষম নয়। আপনি কি সেটিংস মেনুতে যেতে চান?</string>
+    <string name="location_settings_button">সেটিংস</string>
+    <string name="action_weather_map">আবহাওয়ার মানচিত্র</string>
+    <string name="rain">বৃষ্টি</string>
+    <string name="temperature">তাপমাত্রা</string>
+    <string name="action_graphs">গ্রাফ</string>
+    <string name="about_us">আমাদের সম্পর্কে</string>
+
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="terms_of_use">ব্যবহারের শর্তাবলী</string>
+    <string name="licenses">লাইসেন্স</string>
+    <string name="connect_us">আমাদের সাথে যোগাযোগ করুন</string>
+    <string name="version_20_08_01">সংস্করণ 20.08.01</string>
+    <string name="todo">করতে</string>
+    <string name="fertilizers">Fertilizers</string>
+    <string name="mandi">Mandi</string>
+    <string name="prediction">Prediction</string>
+
+
+    <string name="mat1">খরিফ / মাঝারি -95 দিন</string>
+    <string name="mat2">খরিফ  / দেরী-  96 দিন</string>
+    <string name="mat3"></string>
+    <string name="advisory_services">অ্যাডভাইসারির সেবা</string>
+    <string name="type_of_crop">শস্যের ধরণ</string>
+    <string name="select_crop">ক্রপ নির্বাচন করুন</string>
+    <string name="select_variety">বিভিন্নতা নির্বাচন করুন</string>
+    <string name="pick_date">Pick date</string>
+    <string name="dd_mm_yyyy">ডিডি / হয় MM / YYYY</string>
+    <string name="next">পরবর্তী</string>
+    <string name="choose">পছন্দ করা</string>
+    <string name="add_description_for_image">চিত্রের জন্য বিবরণ যুক্ত করুন</string>
+    <string name="upload">আপলোড</string>
+    <string name="view_uploads">আপলোডগুলি দেখুন</string>
+    <string name="crop_discription">শস্য বিবরণ</string>
+    <string name="type">আদর্শ</string>
+    <string name="crop">ফসল</string>
+    <string name="variety">বৈচিত্র্য</string>
+    <string name="maturity">পরিপক্বতা</string>
+    <string name="crop_insurance">শস্য বীমা</string>
+    <string name="rabi_season_october_march_winter">রবি সিজন: অক্টোবর - মার্চ (শীতকালীন)</string>
+    <string name="kharif_season_july_october_monsoon">খারিফ সিজন: জুলাই - অক্টোবর (বর্ষা)</string>
+    <string name="zaid_season_march_june_summer">জায়েদ সিজন: মার্চ - জুন (গ্রীষ্ম)</string>
+    <string name="companies_offering_crop_insurance">শস্য সরবরাহের সংস্থাগুলি</string>
+    <string name="s_no">এস না।</string>
+    <string name="company">প্রতিষ্ঠান</string>
+    <string name="web_address">ওয়েব ঠিকানা</string>
+    <string name="_1">1</string>
+    <string name="protection">Protection</string>
+    <string name="insurance">Insurance</string>
+   <!-- <string name="crop_protection">ফসল সুরক্ষা</string>
+    <string name="agri_e_commerce">কৃষি ই-বাণিজ্য</string>  -->
+    <string name="upload_pic">পিক আপলোড করুন</string>
+    <string name="welcome">স্বাগত!</string>
+    <string name="dashboard">ড্যাশবোর্ড</string>
+    <string name="estimate">হিসাব</string>
+    <string name="advice">পরামর্শ</string>
+    <string name="market_price">বাজারদর</string>
+    <string name="schemes">গুলি</string>
+    <string name="news">খবর</string>
+    <string name="retailers">রিটেইলারস</string>
+    <string name="videos">ভিডিও</string>
+    <string name="sign_in">সাইন ইন করুন</string>
+    <string name="register">নিবন্ধন</string>
+    <string name="name">নাম</string>
+    <string name="pradhanmantri_krishi_sinchayee_yojana">প্রধানমন্ত্রীর কৃষিক্ষেত্র যোজনা</string>
+    <string name="paramparagat_krishi_vikas_yojana">পরমপরাগট কৃষি বিকাশ যোজন</string>
+    <string name="pradhan_mantri_kisan_samman_nidhi">প্রধান মন্ত্রী কিষান সম্মান নিধি</string>
+    <string name="pradhan_mantri_kisan_maandhan_yojana">প্রধানমন্ত্রীর কিষান মন্ধন যোজনা</string>
+    <string name="soil_health_card_scheme">মাটি স্বাস্থ্য কার্ড</string>
+    <string name="gramin_bhandaran_yojana">গ্রামীণ ভান্ডারন যোজনা</string>
+    <string name="kisan_credit_card">কিসান ক্রেডিট কার্ড</string>
+    <string name="_0_c">0 °C</string>
+    <string name="no_data">কোনও ডেটা নেই</string>
+    <string name="humidity_0">আর্দ্রতা: 0%</string>
+    <string name="sunrise_00_00">সূর্যোদয়: 00:00</string>
+    <string name="sunset_00_00">সূর্যাস্ত: 00:00</string>
+    <string name="retailer_services">খুচরা বিক্রেতা পরিষেবা</string>
+    <string name="select_state">রাজ্য নির্বাচন কর</string>
+    <string name="select_district">জেলা নির্বাচন করুন</string>
+    <string name="contact_no">যোগাযোগের নম্বর.</string>
+    <string name="district">জেলা</string>
+    <string name="state">রাষ্ট্র</string>
+    <string name="dealer_id">ডিলার আইডি</string>
+    <string name="agency">এজেন্সী</string>
+    <string name="agancy_name">এজেন্সির নাম</string>
+    <string name="person_name">ব্যক্তির নাম</string>
+    <string name="address">ঠিকানা</string>
+    <string name="contact">যোগাযোগ</string>
+    <string name="home">বাড়ি</string>
+    <string name="profile">প্রোফাইল</string>
+    <string name="settings">সেটিংস</string>
+    <string name="weather">আবহাওয়া</string>
+    <string name="already_have_an_account">ইতিমধ্যে একটি সদস্যপদ আছে</string>
+    <string name="signup">নিবন্ধন করুন</string>
+    <string name="advisory">উপদেশক</string>
+    <string name="mobile_number">মোবাইল নম্বর</string>
+    <string name="otp">OTP</string>
+    <string name="submit">জমা দিন</string>
+    <string name="proceed">এগিয়ে যান</string>
+    <string name="crop_description">শস্য বিবরণ</string>
+    <string name="cholamandalam_ms_general_insurance_co_ltd">ছোলামন্ডলম এমএস জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+    <string name="bajaj_alliance_general_insurance_co_ltd">বাজাজ জোট জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+    <string name="agriculture_insurance_company_of_india_pvt_ltd">ভারতের কৃষি বীমা সংস্থা প্রা। লিমিটেড</string>
+    <string name="future_generali_india_insurance_company_ltd">ফিউচার জেনারেলিয়া ইন্স্যুরেন্স কোম্পানি লিমিটেড</string>
+    <string name="hdfc_ergo_general_insurance_co_ltd">এইচডিএফসি এরআরজিও জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+    <string name="icici_lombard_general_insurance_co_ltd">আইসিআইসিআই লম্বার্ড জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+    <string name="iffco_tokio_general_insurance_co_ltd">আইএফএফসিও-টোকিও জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+<string name="sbi_general_insurance_co_ltd">এসবিআই জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+<string name="reliance_ngeneral_insurance_co_ltd">রিলায়েন্স জেনারেল ইন্স্যুরেন্স কো। লিমিটেড</string>
+<string name="tata_aig_ngeneral_insurance_co_ltd">টাটা এআইজি জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>
+<string name="universal_sompo_general_insurance_co_ltd">ইউনিভার্সাল সোম্পো জেনারেল ইন্স্যুরেন্স কোং লিমিটেড</string>>
+<string name="sih_v2">SIH_v2</string>
+<string name="android_developer">Android Developer</string>
+<string name="verification_done">যাচাই সম্পন্ন হয়েছে</string>
+<string name="rate_us">আমাদের ব্যাপারে আপনার মতামত দিন</string>
+<string name="user_info">ব্যবহারকারীর তথ্য</string>
+<string name="edit">সম্পাদন করা</string>
+<string name="protection_from_insects">Protection from Insects</string>
+<string name="protection_from_diseases">রোগ থেকে সুরক্ষা</string>
+<string name="protection_from_weeds">আগাছা থেকে সুরক্ষা</string>
+<string name="send_us_photo_of_your_crop_to_get_solutions_from_our_experts">আমাদের বিশেষজ্ঞদের কাছ থেকে সমাধান পেতে আমাদের আপনার ফসলের ছবি প্রেরণ করুন</string>
+<string name="pradhanmantri_fasal_bima_yojana">প্রধানমন্ত্রীর ফাসল বিমা যোজনা</string>
+<string name="wind_0_m_s">বাতাস: 0 মি / সে</string>
+<string name="pressure_0_hpa">চাপ: 0 এইচপিএ</string>
+<string name="o">o</string>
+<string name="crop_insurance_majorly_depends_on_the_crop_season">শস্য বীমা মূলত শস্য মরসুমের উপর নির্ভর করে।</string>
+
+
+    <string name="sr_no">S. No.</string>
+    <string name="transport">Transporter</string>
+    <string name="webaddress">Web Address</string>
+    <string name="transinfo">এগুলি এমন কিছু সংস্থা যা এই দুলের পরিবহণে কৃষকদের পরিষেবা প্রদান করে।</string>
+    <string name="transtitle">পরিবহন COVID-19</string>
+    <string name="transin">Transin Logistics</string>
+    <string name="suvidha">Truck Suvidha</string>
+    <string name="rivigo">Rivigo Services Pvt Ltd</string>
+    <string name="guru">Truck Guru</string>
+    <string name="elastic">Elastic Run</string>
+    <string name="blackbuck">Blackbuck</string>
+    <string name="mavyn">Mavyn</string>
+    <string name="jusda">Jusda India</string>
+    <string name="parivahan">eParivahan</string>
+    <string name="famregister">ব্যবহারকারীদের প্রতিটি ওয়েবসাইটে নিবন্ধন করতে হবে।</string>
+    <string name="covid">Covid-19</string>
+
+
+
+
+</resources>

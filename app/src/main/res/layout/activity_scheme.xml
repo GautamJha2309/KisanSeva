@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:id="@+id/topView"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
+        android:background="@drawable/gradient"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        android:background="@drawable/wavesample1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/topView" />
+
+    <TextView
+        android:id="@+id/topText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/schemes"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/topView"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/schemebanner"
+        app:layout_constraintTop_toBottomOf="@+id/view5"
+        android:layout_marginTop="10dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="350dp">
+
+        <ScrollView
+            android:id="@+id/scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:verticalScrollbarPosition="defaultPosition">
+
+
+
+            <GridLayout
+                android:id="@+id/grid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alignmentMode="alignMargins"
+
+                android:columnCount="1"
+                android:columnOrderPreserved="false"
+                android:rowCount="15">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardBackgroundColor="#FFFFFF"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/pradhanmantri_fasal_bima_yojana"
+                            android:textColor="@color/appColor"
+                            android:textSize="18sp" />
+
+
+                        <Button
+                            android:id="@+id/desc1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme1"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardBackgroundColor="@color/white"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme2"
+                            android:textColor="@color/appColor"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/pradhanmantri_krishi_sinchayee_yojana"
+                            android:textSize="18sp" />
+
+
+                        <Button
+                            android:id="@+id/desc2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme2"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme3"
+                            android:textColor="@color/appColor"
+                            android:gravity="left|center_vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/paramparagat_krishi_vikas_yojana"
+                            android:background="@drawable/flag_transparent"
+                            android:textSize="18sp"/>
+
+
+                        <Button
+                            android:id="@+id/desc3"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme3"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme4"
+                            android:textColor="@color/appColor"
+                            android:gravity="left|center_vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/pradhan_mantri_kisan_samman_nidhi"
+                            android:background="@drawable/flag_transparent"
+                            android:textSize="18sp"/>
+
+
+                        <Button
+                            android:id="@+id/desc4"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme4"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme5"
+                            android:textColor="@color/appColor"
+                            android:gravity="left|center_vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/pradhan_mantri_kisan_maandhan_yojana"
+                            android:background="@drawable/flag_transparent"
+                            android:textSize="18sp"/>
+
+
+                        <Button
+                            android:id="@+id/desc5"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme5"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme6"
+                            android:textColor="@color/appColor"
+                            android:gravity="left|center_vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/soil_health_card_scheme"
+                            android:background="@drawable/flag_transparent"
+                            android:textSize="18sp"/>
+
+
+                        <Button
+                            android:id="@+id/desc6"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme6"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme7"
+                            android:textColor="@color/appColor"
+                            android:gravity="left|center_vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/gramin_bhandaran_yojana"
+                            android:background="@drawable/flag_transparent"
+                            android:textSize="18sp"/>
+
+
+                        <Button
+                            android:id="@+id/desc7"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme7"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_rowWeight="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="15dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <Button
+                            android:id="@+id/scheme8"
+                            android:textColor="@color/appColor"
+                            android:gravity="left|center_vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/kisan_credit_card"
+                            android:background="@drawable/flag_transparent"
+                            android:textSize="18sp"/>
+
+
+                        <Button
+                            android:id="@+id/desc8"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/flag_transparent"
+                            android:clickable="true"
+                            android:fontFamily="sans-serif-light"
+                            android:gravity="left|center_vertical"
+                            android:text="@string/scheme8"
+                            android:textAllCaps="false"
+                            android:textSize="14sp"
+                            android:textStyle="normal" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+            </GridLayout>
+
+
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
